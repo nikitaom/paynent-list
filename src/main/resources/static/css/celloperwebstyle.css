@@ -1,0 +1,106 @@
+body {
+	background-color: linen;
+}
+.error{
+     color:#ff0000;
+ }
+.myAlert{
+    color:#00af10;
+    font-size: 16px;
+    background-color: bisque;
+}
+h1 {
+	color: maroon;
+	margin-left: 40px;
+}
+h2 {
+	color: cornflowerblue;
+	margin-left: 40px;
+}
+.liststyle select {
+    border-radius: 3px;
+    background: transparent;
+    height: 180px;
+    padding: 8px;
+    border: 6px dotted #CCCCCC ;
+    font-size: 16px;
+    line-height: 3;
+    -webkit-appearance: none;
+    width: 268px;
+}
+
+.btn-link{
+    border:none;
+    outline:none;
+    background:none;
+    cursor:pointer;
+    color:#0000EE;
+    padding:0;
+    text-decoration:underline;
+    font-family:inherit;
+    font-size:inherit;
+}
+.btn-green{
+    border:none;
+    outline:none;
+    background:green;
+    cursor:pointer;
+    color:white;
+    padding: 1px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    font-family:inherit;
+    font-size:inherit;
+}
+span {
+    margin: 10px;
+}
+
+/*----*/
+
+
+
+.tableDrop {
+    width: 550px;
+    padding: 3px;
+    background-color: darkgrey;
+}
+
+.myTd {
+    padding: 5px;
+}
+
+.aLink {
+    color: #1ed4ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.popupBox {
+    position: absolute;
+    top: 170px;
+    left: 10px;
+    right: 300px;
+}
+
+.popupCell {
+    background-color: darkseagreen;
+}
+
+.popupCell:hover {
+    background-color: #a5fbe9;
+}
+
+.popupItem {
+    color: #444;
+    text-decoration: none;
+    font-size: 1em;
+}
+.ex2
+{
+    font:italic bold 12px/30px Georgia,serif;
+    color:rgb(120,512,255);
+}
